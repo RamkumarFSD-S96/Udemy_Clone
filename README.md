@@ -1,7 +1,3 @@
-Here’s a description tailored for your **Udemy Clone website** using **HTML**, **CSS Style**, and **Flexbox**:  
-
----
-
 **Udemy Clone Website Description**  
 
 This project is a **Udemy Clone website** designed to replicate the layout and functionality of a modern online learning platform. It incorporates **HTML**, **CSS styles**, and **Flexbox** to achieve a clean and responsive design. Below are the key highlights of the website:  
@@ -35,10 +31,5 @@ This project is a **Udemy Clone website** designed to replicate the layout and f
 
 5. **Responsive Design:**  
    - Flexbox ensures the layout adjusts seamlessly across devices, from desktops to tablets and mobile screens.  
-   - Media queries are implemented for further fine-tuning the design on smaller screens.  
+   - Media queries are implemented for further fine-tuning the design on smaller screens.   
 
-This **Udemy Clone** showcases the power of **HTML**, **CSS styles**, and **Flexbox** to create a visually stunning and responsive website that mirrors the look and feel of an actual online learning platform.  
-
----  
-
-Let me know if you want help with further improvements or features! 😊
